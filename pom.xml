@@ -9,6 +9,7 @@
   <artifactId>chilema.manager</artifactId>
   <packaging>pom</packaging>
   
+  <!--  聚合-->
   <modules>
   	<module>manager-pojo</module>
   	<module>manager-dao</module>
